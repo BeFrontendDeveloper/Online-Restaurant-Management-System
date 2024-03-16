@@ -7,7 +7,6 @@ Technology Used:-
 2.Advance CSS
 3.NodeJS(Backend)
 4.Vercel
-5.Heroku
 
 Home Page:-
 
@@ -29,4 +28,3 @@ Contact Us Page:-
 
 
 
-Free Live Demo:-https://restaurant-frontend-5teja4ug1-himanshur25.vercel.app/
